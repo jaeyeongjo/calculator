@@ -16,6 +16,16 @@
 - TDD 방식을 사용한 단위 테스트 작성
 
 ## 앱 프로그램 (App)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/jaeyeongjo/calculator/assets/124424829/e5f89216-ec40-4954-b448-32e86d56219b" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/jaeyeongjo/calculator/assets/124424829/b63d7a1b-599a-4f58-9a51-6907a0a9906e" width="300">
+    </td>
+  </tr>
+</table>
 
 ### 구조
 - **디렉토리**: `lib/app`
